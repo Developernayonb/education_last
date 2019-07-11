@@ -1,0 +1,352 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    /*Banner*/
+.banner_content h1 {
+    font-size: 40px;
+}
+.section_title hr {
+    margin-left: 200px;
+}
+    /*Timeline*/
+.p_r_0 {
+    padding-left: 0;
+}
+    .timeline_tilte h1 {
+    margin-right: 130px;
+}
+/*Skill*/
+.card-title {
+    font-size: 22px;
+}
+.card-footer {
+    font-size: 13px;
+    }
+.recent_content hr {
+    width: 240px;
+}
+    /*Contact*/
+.contact_news h3 {
+    font-size: 22px;
+}
+    /*Footer*/
+.menu ul li a {
+    text-transform: capitalize;
+}
+.copy p {
+    text-transform: capitalize;
+}   
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*Banner*/
+.banner_content h1 {
+    font-size: 31px;
+}
+.banner_content {
+    margin-top: 230px;
+    margin-bottom: 230px;
+}
+    /*Education*/
+.section_title hr {
+    margin-left: 100px;
+}
+.section_title h1 {
+    font-size: 28px;
+}
+.education {
+    padding: 65px 0;
+}
+    /*Education 1*/
+.education1 {
+    padding: 65px 0;
+    }
+    /*Coureses*/
+.courses_area {
+    padding: 65px 0;
+}
+    /*Memory*/
+.memories {
+    padding: 65px 0;
+}
+    /*Study*/
+.study {
+    padding: 65px 0;
+}
+    /*What*/
+    
+.counter_content h3 {
+  font-size: 18px;
+}
+    /*What*/
+.what {
+    padding: 65px 0;
+}
+    /*Timeline*/
+.timeline_area {
+    margin-top: 65px;
+}
+.p_r_0 {
+    padding-left: 0;
+}
+.timeline_tilte h1 {
+    font-size: 28px;
+}
+.events {
+    margin-left: 25px;
+}
+.recent_content hr {
+    width: 170px;
+}
+.events h5 {
+    font-size: 18px;
+}
+.recent_content h5 {
+    font-size: 18px;
+}
+.register {
+    font-size: 16px;
+}
+    /*Contact*/
+.contact {
+    padding-top: 200px;
+    padding-bottom: 65px;
+}
+.contact_instagram h3 {
+    font-size: 20px;
+}
+.contact_instagram hr {
+    width: 100px;
+    margin-top: 10px;
+}
+.contact_us h3 {
+    font-size: 20px;
+}
+.contact_us hr {
+    width: 100px;
+    margin-top: 10px;
+}
+.contact_news h3 {
+    font-size: 20px;
+}
+.contact_news hr {
+    width: 180px;
+    margin-top: 10px;
+}
+.contact_logo {
+    margin-bottom: 50px;
+}
+    /*Footer*/
+.menu {
+    text-align: center;
+}
+.copy {
+    text-align: center!important;
+}
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+   /*Logo*/
+ .logo_img {
+    width: 130px;
+}
+  /*Banner*/
+.banner_content h1 {
+    font-size: 21px;
+}
+.banner_content {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.section_title h1 {
+    font-size: 18px;
+}
+   /*Education*/
+.section_title hr {
+    width: 130px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.scholl h2 {
+    font-size: 20px;
+    text-align: center;
+}
+.scholl hr {
+    width: 100px;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+.scholl img {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.bt-button {
+    width: 150px;
+    margin-left: 60px;
+    margin-top: -50px;
+}
+.education {
+    padding: 50px 0;
+}
+    /*Education 1*/  
+.education1 {
+    padding: 50px 0;
+}
+.content_ducation {
+    text-align: center;
+}
+.content_ducation h2 {
+    font-size: 18px;
+}
+    /*Courses*/
+.courses_area {
+    padding: 50px 0;
+}
+.courses_title h1 {
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.dotted {
+    width: 130px;
+    margin-left: 100px;
+}
+    /*Memories*/
+.memories {
+    padding: 50px 0;
+}
+   /*Study*/
+.study {
+    padding: 50px 0;
+}
+  /*Teacher*/
+.teacher_content {
+    text-align: center;
+}
+.teacher_img {
+    text-align: center;
+}
+/*What*/
+.what {
+    padding: 50px 0;
+}
+.counter_content h2 {
+    font-size: 40px;
+}
+.counter_content h3 {
+    font-size: 16px;
+}
+  /*Timeline*/
+.timeline_tilte h1 {
+    text-align: center;
+}
+.timeline_tilte hr {
+    width: 130px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.timeline_tilte h1 {
+    font-size: 20px;
+}
+.m_b_event {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.p_r_0 {
+    margin-left: 85px;
+}
+.register {
+    font-size: 16px;
+}
+.events h5 {
+    font-size: 18px;
+}
+.recent_content {
+    text-align: center;
+}
+.recent_content h5 {
+    font-size: 18px;
+}
+.recent_content hr {
+    width: 175px;
+    margin-left: 60px;
+}
+/*Contact*/
+.contact {
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+.contact_logo {
+    text-align: center;
+}
+.contact_instagram {
+    text-align: center;
+    margin-top: 30px;
+}
+.contact_instagram h3 {
+    font-size: 18px;
+}
+.contact_instagram hr {
+    width: 85px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.contact_us {
+    text-align: center;
+    margin-top: 30px;
+}
+.contact_us hr {
+     width: 85px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.contact_us h3 {
+    font-size: 18px;
+}
+.contact_news {
+    text-align: center;
+    margin-top: 30px;
+}
+.contact_news hr{
+   width: 85px;
+    margin-left: 100px;
+    margin-top: 10px; 
+}
+.contact_news h3 {
+    font-size: 18px;
+}
+/*Footer*/
+.menu ul li a {
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 5px 5px;
+}
+.copy p {
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 5px 0;
+    text-align: center;
+}
+
+    
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ @media (max-width: 767px)
+
+}
